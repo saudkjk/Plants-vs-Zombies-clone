@@ -1,0 +1,12 @@
+---
+:id: 35532054
+:submitters:
+- :name: SAOUD ALDOWAISH
+  :email: u1275778@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-04-22 05:40:15.112904000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-04-21 22:40:15.112904000 Z
+:status: processed
+:score: 97.0
